@@ -1,0 +1,21 @@
+body {
+    background-color: #ff7da4;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+}
+
+#tekst {
+    color: rgb(0, 0, 0);
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+}
+
+button {
+    background-color: #f95284;
+    margin-right: 35px;
+}
